@@ -1,2 +1,2 @@
-# Blog.github.io
+# Blog
 A blog for TTU
