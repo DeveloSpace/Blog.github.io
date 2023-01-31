@@ -7,5 +7,7 @@
 			"path": "../Demo"
 		}
 	],
-	"settings": {}
+	"settings": {
+		"gitlens.currentLine.format": "${Wings, }${agoOrDate}${' via 'pullRequest}${ • message|50?}"
+	}
 }
