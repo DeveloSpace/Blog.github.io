@@ -8,6 +8,7 @@
 		}
 	],
 	"settings": {
-		"gitlens.currentLine.format": "${Wings, }${agoOrDate}${' via 'pullRequest}${ • message|50?}"
+		"gitlens.currentLine.format": "${Wings, }${agoOrDate}${' via 'pullRequest}${ • message|50?}",
+		"connect-to-openai.apiKey": "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"
 	}
 }
